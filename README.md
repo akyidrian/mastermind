@@ -1,7 +1,7 @@
 Mastermind
 ==========
 
-A Mastermind Command Line Game Created in C.
+A Mastermind command line game created in C.
 
 To play, run:
 -------------
